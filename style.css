@@ -189,9 +189,9 @@ div.scroll {
 }
 
 .scroll img:hover{
-    transform: scale(1.1);
+    
     cursor: pointer;
-    transition: transform 0.5s ease;
+    
     filter: brightness(120%)
 }
 
